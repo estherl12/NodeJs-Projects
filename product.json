@@ -1,0 +1,20 @@
+[
+    {
+        "name":"bag",
+        "price":1300,
+        "company":"Acer",
+        "rating":6.0
+    },
+    {
+        "name":"laptop",
+        "price":130000,
+        "company":"Dell",
+        "rating":8.0
+    },
+    {
+        "name":"keyboard",
+        "price":1500,
+        "company":"Mac",
+        "rating":5.0
+    }
+]
